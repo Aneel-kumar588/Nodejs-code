@@ -1,0 +1,8 @@
+{
+    "lastname": "Doe",
+    "firstname": "John",
+    "email": "john.doe@example.com",
+    "passportNumber": "A12345678",
+    "province": "Some Province",
+    "country": "Some Country"
+}
